@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://author-p166415-e1773592.adobeaemcloud.com/bin/franklin.delivery/lovelymandal16/aep-test/main
+    type: "markup"
+    suffix: ".html"
